@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521345784333",
+    "project_id": "havierdevelopment",
+    "storage_bucket": "havierdevelopment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521345784333:android:4fa196c6f6a74499925344",
+        "android_client_info": {
+          "package_name": "dev.havier.havier_cluedo_tool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521345784333-n1brrgn80vnrg321abqptpb307bkumsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3CtwBRjQS6ux_yg0q_kT-T_DoUmnKlJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521345784333-n1brrgn80vnrg321abqptpb307bkumsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

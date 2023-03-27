@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>521345784333-alsfceh18lcd3kdf0d5vsss0mbgjl7dq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.521345784333-alsfceh18lcd3kdf0d5vsss0mbgjl7dq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzq9CcTrxsSWL-33fj1DxxEps1oCn36lA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>521345784333</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.havier.havierCluedoTool</string>
+	<key>PROJECT_ID</key>
+	<string>havierdevelopment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>havierdevelopment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:521345784333:ios:1e0acde277f81ed0925344</string>
+</dict>
+</plist>
